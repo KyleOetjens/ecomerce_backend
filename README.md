@@ -17,7 +17,7 @@ I created an ecommerce backend to be able to add, update, view and delete produc
 
 ## Installation
 
-Open in integrated terminal, run npm run seeds, then node server.js (make sure you are using your credentails for mysql)
+Open in integrated terminal, you will need to first navigate to the db folder and open the terminal on the sql file.  open mysql and then run source schema.sql;.  After you have set up the db, exit mysql and in the integrated terminal on server.js run npm run seeds, then node server.js (make sure you are using your credentails for mysql)
 
 ## Usage
 
